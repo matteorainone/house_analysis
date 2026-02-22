@@ -69,8 +69,3 @@ Dall'analisi emerge che:
 ### 📝 Note Finali
 
 Per visualizzare l'intero processo, i grafici dei residui e il confronto dei coefficienti, consultare il file `progetto_finale.ipynb`.
-
----
-
-
-*Progetto realizzato come parte del percorso formativo in Data Science.*
