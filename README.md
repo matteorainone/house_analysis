@@ -1,7 +1,3 @@
-Ecco il contenuto per il tuo file `README.md`, ottimizzato per una presentazione professionale su GitHub. Ho incluso sezioni che spiegano il processo logico, le sfide tecniche superate e le conclusioni basate sul tuo notebook finale.
-
----
-
 # 🏠 Analisi Predittiva del Mercato Immobiliare
 
 Questo repository contiene un progetto di data science focalizzato sulla previsione dei prezzi degli immobili utilizzando modelli di regressione lineare regolarizzata. L'obiettivo è costruire un modello robusto capace di generalizzare bene su dati non visti, affrontando problematiche comuni come l'eteroschedasticità e il bias di campionamento.
@@ -75,5 +71,6 @@ Dall'analisi emerge che:
 Per visualizzare l'intero processo, i grafici dei residui e il confronto dei coefficienti, consultare il file `progetto_finale.ipynb`.
 
 ---
+
 
 *Progetto realizzato come parte del percorso formativo in Data Science.*
